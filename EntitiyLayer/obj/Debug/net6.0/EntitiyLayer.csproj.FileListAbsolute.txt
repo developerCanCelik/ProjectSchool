@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.deps.json
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.runtimeconfig.json
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.dll
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.dll
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\refint\EntitiyLayer.dll
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.genruntimeconfig.cache
+C:\Users\90539\source\repos\ProjectSchool\EntitiyLayer\obj\Debug\net6.0\ref\EntitiyLayer.dll
